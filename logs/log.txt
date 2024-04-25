@@ -1,0 +1,4 @@
+:[24-04-24 20:54:59] | Funcao: criar_cliente | Executada com argumentos: ([<PessoaFisica: 123)>],) e {} Retornou: None
+:[24-04-24 20:56:45] | Funcao: criar_conta | Executada com argumentos: (1, [<PessoaFisica: 123)>], [<ContaCorrente: ('0001', '1', 'raniery')>]) e {} Retornou: None
+:[24-04-24 20:56:59] | Funcao: depositar | Executada com argumentos: ([<PessoaFisica: 123)>],) e {} Retornou: None
+:[24-04-24 21:01:37] | Funcao: criar_cliente | Executada com argumentos: ([<PessoaFisica: ('chappie','3')>],) e {} Retornou: None
